@@ -1,0 +1,23 @@
+[
+    {
+        "nama": "Rosa",
+        "subjek": "Terimakasih",
+        "email": "rosaalmaira@gmail.com",
+        "hp": "081289865295",
+        "pesan": "1234"
+    },
+    {
+        "nama": "Kesya",
+        "subjek": "Kritik dan Saran",
+        "email": "rosaalmaira@gmail.com",
+        "hp": "081289865295",
+        "pesan": "1234"
+    },
+    {
+        "nama": "Rosa",
+        "subjek": "Kritik",
+        "email": "rosaalmaira@gmail.com",
+        "hp": "081289865295",
+        "pesan": "apa saja"
+    }
+]
